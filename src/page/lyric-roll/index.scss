@@ -20,11 +20,10 @@ li {
     overflow: hidden;
 
     ul {
-      transition: 1.3s;
-
       li {
         height: 30px;
         line-height: 30px;
+        transition: 0.3s;
       }
 
       li.active {
